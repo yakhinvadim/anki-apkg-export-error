@@ -3,11 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "anki-apkg-export": "^3.0.1",
+    "filesaverjs": "^1.2.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
-    "react-scripts": "1.0.7"
+    "raw-loader": "^0.5.1",
+    "react-scripts": "1.0.7",
+    "script-loader": "^0.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
